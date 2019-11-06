@@ -38,24 +38,6 @@ class Empleado{
 
 };
 
-class curso{
-    public:
-
-    private:
-        string nombre,codigo;
-        int cantidad;
-
-
-
-
-
-
-
-};
-
-
-
-
 int main()
 {
     Empleado as("juan","cruzado",44);

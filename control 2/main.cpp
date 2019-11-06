@@ -91,17 +91,6 @@ class curso{
 
 };
 
-
-void cambio(Estudiante &x,Estudiante &y){
-    Estudiante m=x;
-    x=y;
-    y=m;
-}
-
-
-
-
-
 int main()
 {
     Estudiante as("Juan","Cruzado","hgfd");
